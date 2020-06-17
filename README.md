@@ -12,6 +12,14 @@
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adsu01tb/)!
 
+## [PCアプリ](https://github.com/bit-trade-one/ADSU01TB_Sound_Player_Module_reference_board/tree/master/App)
+
+## [マニュアル](https://github.com/bit-trade-one/ADSU01TB_Sound_Player_Module_reference_board/blob/master/Manual/ADSU01TB_MANUAL_WEB.pdf)
+
+### [基板図](https://github.com/bit-trade-one/ADSU01TB_Sound_Player_Module_reference_board/blob/master/Dimensions/ADSU01TB%20%E9%9F%B3%E6%BA%90%E5%86%8D%E7%94%9F%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E8%A9%95%E4%BE%A1%E3%83%9C%E3%83%BC%E3%83%89%20%E5%A4%96%E5%BD%A2%E5%9B%B3.pdf)
+
+### [回路図](https://github.com/bit-trade-one/ADSU01TB_Sound_Player_Module_reference_board/blob/master/Schematics/pwm_module_demo_schematics.pdf)
+
 ## 製品仕様
 
 ### 音声出力仕様
