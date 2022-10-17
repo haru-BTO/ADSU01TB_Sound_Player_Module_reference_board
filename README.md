@@ -12,7 +12,7 @@
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adsu01tb/)!
 
-### 音源再生モジュール単体の詳細は[こちら](https://bit-trade-one.co.jp/product/module/adsu01/)!
+### 音源再生モジュール単体のサポートサイトは[こちら](https://github.com/bit-trade-one/ADSU01_Sound_Player_Module)!
 
 ## [PCアプリ](https://github.com/bit-trade-one/ADSU01TB_Sound_Player_Module_reference_board/tree/master/App)
 
